@@ -83,3 +83,7 @@ AWS無料枠を利用してクラウド環境を構築しました。
 
 解決：
 HTTP（80）を0.0.0.0/0で許可
+
+## 構成図
+
+![AWS Architecture](./aws_portfolio_architecture.png)
