@@ -4,6 +4,30 @@
 AWS無料枠を活用し、EC2上にNginx Webサーバーを構築しました。
 S3、IAM、CloudWatchを組み合わせ、クラウドインフラの基本設計・構築・監視を実装したポートフォリオです。
 
+# AWS Cloud Portfolio
+
+## 🌐 デモサイト
+http://3.26.5.118
+
+※現在稼働中のWebサーバーです
+
+---
+
+## 📌 概要
+AWS無料枠を利用してクラウド環境を構築しました。
+
+## 🏗️ 構成
+- EC2（Amazon Linux）
+- Nginx
+- S3
+- IAM
+- CloudWatch
+
+## 💡 ポイント
+- セキュリティグループでアクセス制御
+- IAMロールで安全にS3アクセス
+- CloudWatchで監視
+
 ## 構成
 - Amazon EC2
 - Amazon Linux 2023
