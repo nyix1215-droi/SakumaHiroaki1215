@@ -1,8 +1,7 @@
 # AWS Cloud Engineer Portfolio
 
 ## 概要
-AWS無料枠を活用し、EC2上にNginx Webサーバーを構築しました。
-S3、IAM、CloudWatchを組み合わせ、クラウドインフラの基本設計・構築・監視を実装したポートフォリオです。
+AWS上に、EC2/Nginx/S3/IAM/CloudWatchを用いた小規模Webインフラを設計・構築しました。ネットワーク、アクセス制御、監視、トラブルシュートまでを一通り実装しています。
 
 # AWS Cloud Portfolio
 
